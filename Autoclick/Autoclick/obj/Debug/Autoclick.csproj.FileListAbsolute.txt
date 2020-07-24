@@ -1,0 +1,15 @@
+C:\Users\leanf\source\repos\Autoclick\Autoclick\bin\Debug\Autoclick.exe.config
+C:\Users\leanf\source\repos\Autoclick\Autoclick\bin\Debug\Autoclick.exe
+C:\Users\leanf\source\repos\Autoclick\Autoclick\bin\Debug\Autoclick.pdb
+C:\Users\leanf\source\repos\Autoclick\Autoclick\obj\Debug\Autoclick.csprojAssemblyReference.cache
+C:\Users\leanf\source\repos\Autoclick\Autoclick\obj\Debug\MainWindow.g.cs
+C:\Users\leanf\source\repos\Autoclick\Autoclick\obj\Debug\App.g.cs
+C:\Users\leanf\source\repos\Autoclick\Autoclick\obj\Debug\Autoclick_MarkupCompile.cache
+C:\Users\leanf\source\repos\Autoclick\Autoclick\obj\Debug\Autoclick_MarkupCompile.lref
+C:\Users\leanf\source\repos\Autoclick\Autoclick\obj\Debug\MainWindow.baml
+C:\Users\leanf\source\repos\Autoclick\Autoclick\obj\Debug\Autoclick.g.resources
+C:\Users\leanf\source\repos\Autoclick\Autoclick\obj\Debug\Autoclick.Properties.Resources.resources
+C:\Users\leanf\source\repos\Autoclick\Autoclick\obj\Debug\Autoclick.csproj.GenerateResource.cache
+C:\Users\leanf\source\repos\Autoclick\Autoclick\obj\Debug\Autoclick.csproj.CoreCompileInputs.cache
+C:\Users\leanf\source\repos\Autoclick\Autoclick\obj\Debug\Autoclick.exe
+C:\Users\leanf\source\repos\Autoclick\Autoclick\obj\Debug\Autoclick.pdb
